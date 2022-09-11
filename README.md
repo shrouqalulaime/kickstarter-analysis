@@ -23,17 +23,17 @@ Many challenges were encountered while working on the first assignment. First, g
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?\
-1- The best time to launch a fundraising project is in May; there is a high chance of success.
-2- Theater projects are less prone to be canceled, so it is recommended to use theater projects.
+1. The best time to launch a fundraising project is in May; there is a high chance of success.
+2. Theater projects are less prone to be canceled, so it is recommended to use theater projects.
 
 - What can you conclude about the Outcomes based on Goals?\
 The percentage of plays projects to succeed decreases as the goal decreases. Therefore, it is recommended to aim for a goal of less than $15k with more than a 50% probability of completion. 
 
 - What are some limitations of this dataset?\
-1- Different currency formats are used for gaol and pledged columns. This might create a bias for outcome based on the gaols plot. 
-2- Deadline and launched_at columns use a nonreadable dates format.
+1. Different currency formats are used for gaol and pledged columns. This might create a bias for outcome based on the gaols plot. 
+2. Deadline and launched_at columns use a nonreadable dates format.
 
 - What are some other possible tables and/or graphs that we could create?\
 Other charts can be added for more detailed analysis, such as:
-1- Studying the relationship between the project's outcome and county. Different campaign projects might have other results. 
-2- Find the relationship between the Parent category/subcategory and the outcome. 
+1. Studying the relationship between the project's outcome and county. Different campaign projects might have other results. 
+2. Find the relationship between the Parent category/subcategory and the outcome. 
