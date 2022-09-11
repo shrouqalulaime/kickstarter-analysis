@@ -14,7 +14,7 @@ The results show that launching a fundraising campaign in May has the highest nu
 
 ### Analysis of Outcomes Based on Goals
 Figure 2 shows the relationship between the outcome of the play's fundraising project and the gaol. The results show that when the goal is less than $1,000, there is a high probability for the project to succeed (about 76%), and the probability decreases as the gaol amount increases, with zero chance of being successful when the gaol amount is within the range of $45k to $50k. The opposite trend is shown for the failed projects. The probability of a project failing increases as the funding goal amount increases, with more than 80% failing when the amount exceeds $45k. Generally, the plays' campaign projects are less prone to be canceled.
-![Figure 2](https://drive.google.com/file/d/1rDaJRXmZ8c6oeM1QgR2G3wQMXYXPaigm/view?usp=sharing)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/48078471/189516418-4f9efaac-3861-45d9-8d19-8765a70f39b7.png)
 
 ### Challenges and Difficulties Encountered
 Many challenges were encountered while working on the first assignment. First, getting used to Github syntax to complete the analysis report was challenging, especially how to insert images with the report. The way to overcome that is by referencing the GitHub documentation formatting syntax. The other challenge was how to use the COUNTIFS function in excel. I referred to the Excel function help section and reviewed the descriptive text about that function. However, it seemed I needed more help, so I watched a video explaining the proper way to implement that function.
