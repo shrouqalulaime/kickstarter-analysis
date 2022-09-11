@@ -10,7 +10,7 @@ The project aims to increase the chance of a successful fundraising campaign by 
 ### Analysis of Outcomes Based on Launch Date
 The relationship between a theater fundraising project's outcome and the launch date is shown in Figure 1. 
 The results show that launching a fundraising campaign in May has the highest number of successful projects. The results show a decreasing trend for the number of successful projects starting from June to the end of the year (December). Generally, theater projects are less likely to be canceled throughout the year. The results also show that there is no apparent relationship between the project status to be failed and the launch date. Therefore, other factors might impact the chance of a theater fundraising project to be failed. 
-![Figure 1](https://drive.google.com/file/d/1aj4b5D59wyNCUOlzXpHGAzRr_80AoIr6/view?usp=sharing)
+![Figure 1](/assets/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Figure 2 shows the relationship between the outcome of the play's fundraising project and the gaol. The results show that when the goal is less than $1,000, there is a high probability for the project to succeed (about 76%), and the probability decreases as the gaol amount increases, with zero chance of being successful when the gaol amount is within the range of $45k to $50k. The opposite trend is shown for the failed projects. The probability of a project failing increases as the funding goal amount increases, with more than 80% failing when the amount exceeds $45k. Generally, the plays' campaign projects are less prone to be canceled.
